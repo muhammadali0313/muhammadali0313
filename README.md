@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **TypeScript, NodeJS, MongoDB,**
+- 🌱 I’m currently learning **TypeScript, NodeJS, MongoDB **
 
-- 💬 Ask me about **Html, Css, Javascript ** React , Firebass
+- 💬 Ask me about ** Html, Css, Javascript  React , Firebass **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
