@@ -1,3 +1,6 @@
+<img alt="Coding" style="border-radius:16px;" src="./images/background.png">
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">I’m a passionate frontend developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.
 
