@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" width="800px" src="/GITHUB.png">
+<img alt="Coding" style="border-radius:16px;" width="850px" height="500px" src="/GITHUB.png">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
