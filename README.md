@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">I’m a passionate frontend developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.
+
+</h3>
 <p align="center">
 	<a href="https://my-personal-portfolio-mths.vercel.app/" align="center" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
