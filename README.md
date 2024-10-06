@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" src="./images/background.png">
+<img alt="Coding" style="border-radius:16px;" src="./images/GITHUB">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
