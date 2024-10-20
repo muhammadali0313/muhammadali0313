@@ -1,12 +1,12 @@
-<img alt="Coding" style="border-radius:16px;" width="850px" height="100px" src="/pic.png">
+<img alt="Coding" style="border-radius:16px;" width="850px" height="270px" src="/picture.png">
 
-
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">I’m a passionate front-end developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.
 
 My journey in web development began with a fascination for how websites are built and how they function. Over the years, I’ve honed my skills in crafting responsive layouts and interactive elements that enhance user experience. I take pride in writing clean, maintainable code and staying updated with the latest industry trends and best practices.
 
+
 I believe that collaboration is key to successful projects, and I enjoy working closely with designers and other developers to turn visions into reality. Whether it’s optimizing performance or ensuring accessibility, I’m committed to delivering high-quality solutions.
+
 
 In my spare time, I love exploring new technologies and contributing to open-source projects. I’m always eager to learn and grow in this ever-evolving field.
 
