@@ -1,6 +1,6 @@
-<img alt="Coding" style="border-radius:16px;" width="8rem" height="200" src="/picture.png">
+<img alt="Coding" style="border-radius:16px;" width="80rem" height="200" src="/picture.png">
 
-<h3 align="center">I’m a passionate front-end developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.
+<h3 align="center">I’m a passionate front-end developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.<br/>
 
 My journey in web development began with a fascination for how websites are built and how they function. Over the years, I’ve honed my skills in crafting responsive layouts and interactive elements that enhance user experience. I take pride in writing clean, maintainable code and staying updated with the latest industry trends and best practices.
 
