@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px; width="950rem" src="/picture.png">
+<img alt="Coding" style="border-radius:16px; width:100%;" src="/picture.png">
 
 <h3 align="center" style="margin-top: 4px;">PASSIONATE FRONT-END DEVELOPER!</h3>
 
