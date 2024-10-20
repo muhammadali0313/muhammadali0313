@@ -1,26 +1,39 @@
 <img alt="Coding" style="border-radius:16px;" width="900rem" height="200" src="/picture.png">
 
-<h3 align="center">I’m a passionate front-end developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.<br/>
-
-My journey in web development began with a fascination for how websites are built and how they function. Over the years, I’ve honed my skills in crafting responsive layouts and interactive elements that enhance user experience. I take pride in writing clean, maintainable code and staying updated with the latest industry trends and best practices.
+<h3 align="center" style="margin-top: 4px;">Passionate Front-End Developer :</h3>
 
 
-I believe that collaboration is key to successful projects, and I enjoy working closely with designers and other developers to turn visions into reality. Whether it’s optimizing performance or ensuring accessibility, I’m committed to delivering high-quality solutions.
+<p>
+	Hello! I'm a front-end developer who loves building engaging and user-friendly websites. On my GitHub, you'll find a variety of projects that showcase my skills in HTML, CSS, JavaScript, and React.
+
+What I Do:
+I focus on creating responsive web applications that look great and function smoothly. I enjoy turning ideas into reality and collaborating with others to enhance user experiences.
+
+My Journey:
+I started my journey in web development out of curiosity about how websites are made. Since then, I've been dedicated to improving my skills and staying up-to-date with the latest technologies.
+
+Why I Love Coding:
+For me, coding is more than just a job; it’s a passion. I’m excited by the challenge of solving problems and the joy of creating something new.
+
+Feel free to explore my projects, and let’s connect if you share a love for front-end development!
 
 
-In my spare time, I love exploring new technologies and contributing to open-source projects. I’m always eager to learn and grow in this ever-evolving field.
+</p>
 
-Let’s connect and build something amazing together!
+| Currently Learning | NestJS, PostgreSQL |
+| ------------------ | --------- |
 
 
-
-</h3>
 <p align="center">
 	<a href="https://my-personal-portfolio-mths.vercel.app/" align="center" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
 		PORTFOLIO WEBSITE</a>
 </p>
-<br/>
+
+<hr>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-ali-5062802b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhammad-ali-5062802b3" height="30" width="40" /></a>
