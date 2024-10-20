@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" width="800rem" height="200" src="/picture.png">
+<img alt="Coding" style="border-radius:16px;" width="900rem" height="200" src="/picture.png">
 
 <h3 align="center">I’m a passionate front-end developer based in Pakistan, dedicated to creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to bring ideas to life through clean code and innovative design.<br/>
 
