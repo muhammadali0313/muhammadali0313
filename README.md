@@ -1,6 +1,6 @@
 <img alt="Coding" style="border-radius:16px;" width="900rem" height="200" src="/picture.png">
 
-<h3 align="center" style="margin-top: 4px;">Passionate Front-End Developer :</h3>
+<h3 align="center" style="margin-top: 4px;">PASSIONATE FRONT-END DEVELOPER!</h3>
 
 
 <p>
@@ -20,7 +20,7 @@ Feel free to explore my projects, and let’s connect if you share a love for fr
 
 </p>
 
-| Currently Learning | NestJS, PostgreSQL |
+| Currently Learning | React-Native |
 | ------------------ | --------- |
 
 
